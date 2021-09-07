@@ -10,7 +10,7 @@ public class Biggestnumber
     System.out.print("Enter the second number:");
     y=s.nextInt();
     System.out.print("enter the third number:");
-    z=s.nex();
+    z=s.next();
     if(x>y && x>z)
     {
      System.out.println("Largest number is:"+x);
