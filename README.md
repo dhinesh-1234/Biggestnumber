@@ -7,7 +7,7 @@ public class Biggestnumber
     Scanner s=new scanner)System.in);
     System.out.print("Enter the first number:");
     x=s.nextInt();
-    System.out.print("Enter the second number:");
+    System.out.print("Enter ");
     y=s.nextInt();
     System.out.print("enter the third number:");
     z=s.nextInt();
